@@ -9,17 +9,15 @@
 
 打开 FCW.exe 使用
 
----
 ## 注意事项
 第一次使用此软件启动稍慢，因为要进行初始化工作，请勿因为主页面窗口迟迟不出现反复点击开启程序，否则会导致严重错误。
 
----
 ## 调用插件
 OpenP2P
 
 Apache2（USBWebserver）
 
 Frp
----
+
 ## 特别鸣谢
 乖漏斗（[Bilibili]:https://space.bilibili.com/496960407）
