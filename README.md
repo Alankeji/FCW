@@ -1,11 +1,16 @@
+> “迅联界”（简称FCW）是一款即时点对点（Peer to Peer）联机工具，以低延迟、使用方便为原则，助力打造最优质的用户体验。
+>
+>  软件在不断更新完善，反馈/意见请发送邮件到alankeji@outlook.com或者直接开个Issues。
+
+---
 
 ### 此页面同时用于为“迅联界”软件提供后台云服务器支持
 
 --- 
 ## 使用方法
-在releases页面下载最新版 FCW.zip 压缩包并解压
+在releases页面或此页面下载最新版 FCW.zip 压缩包并解压
 
-复制文件到一个** 仅含英文和/或数字 **的路径下（程序启动时会提示）
+复制文件到一个**仅含英文和/或数字**的路径下（程序启动时会提示）
 
 打开 FCW.exe 使用
 
@@ -22,4 +27,7 @@ Apache2（USBWebserver）
 Frp
 
 ## 特别鸣谢
-乖漏斗（[Bilibili]:https://space.bilibili.com/496960407）
+乖漏斗（[Bilibili](https://space.bilibili.com/496960407)）
+
+## 下载地址
+[Releases页面](https://github.com/Alankeji/FCW/releases/latest)
