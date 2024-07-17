@@ -37,4 +37,4 @@ Frp
 
 ↓↓↓赞赏码↓↓↓
 
-[![赞赏妈](/FCW/赞赏.jpg "微信扫描赞赏")](https://alankeji.github.io)
+[![赞赏妈](/FCW/赞赏.jpg "微信扫描赞赏")](https://alankeji.github.io/FCW/赞赏.jpg)
