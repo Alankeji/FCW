@@ -32,13 +32,13 @@ Frp
 ## 下载地址
 [直链下载](https://github.com/Alankeji/FCW/releases/download/1.6/FCW.zip)
 
-> 某些时期可能访问不了
-
 [Releases页面](https://github.com/Alankeji/FCW/releases/latest)
+
+> 以上链接某些时期可能访问不了
 
 ## 赞赏
 公益项目制作不易，欢迎赞赏！
 
-↓↓↓赞赏码↓↓↓
+↓↓↓赞赏码↓↓↓ -> 微信扫描进行赞赏
 
-[![赞赏妈] "微信扫描赞赏"](https://alankeji.github.io/FCW/赞赏.jpg)
+![赞赏码](https://alankeji.github.io/FCW/赞赏.jpg "微信扫描进行赞赏")
