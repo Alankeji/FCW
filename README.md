@@ -31,3 +31,8 @@ Frp
 
 ## 下载地址
 [Releases页面](https://github.com/Alankeji/FCW/releases/latest)
+
+## 赞赏
+公益项目制作不易，欢迎赞赏！
+
+![赞赏](/赞赏.png "赞赏一下吧")
