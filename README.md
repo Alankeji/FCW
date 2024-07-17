@@ -30,6 +30,10 @@ Frp
 乖漏斗（[Bilibili](https://space.bilibili.com/496960407)）
 
 ## 下载地址
+[直链下载](https://github.com/Alankeji/FCW/releases/download/1.6/FCW.zip)
+
+> 某些时期可能访问不了
+
 [Releases页面](https://github.com/Alankeji/FCW/releases/latest)
 
 ## 赞赏
@@ -37,4 +41,4 @@ Frp
 
 ↓↓↓赞赏码↓↓↓
 
-[![赞赏妈](/赞赏.jpg "微信扫描赞赏")](https://alankeji.github.io/FCW/赞赏.jpg)
+![赞赏妈](https://alankeji.github.io/FCW/赞赏.jpg)
